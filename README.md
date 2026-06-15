@@ -6,7 +6,7 @@ OpenAI · Meta · Anthropic이 2026년 상반기에 공개한 **사내 데이터
 
 | 파일 | 내용 |
 |---|---|
-| [`comparison.md`](comparison.md) | **세 회사 비교 분석** (먼저 읽기) |
+| [`comparison.md`](comparison.md) | **세 회사 비교 분석** |
 | [`openai.md`](openai.md) | OpenAI 원문 |
 | [`meta.md`](meta.md) | Meta 원문 |
 | [`claude.md`](claude.md) | Anthropic 원문 |
